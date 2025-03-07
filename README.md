@@ -5,3 +5,4 @@ The script prompts the user for CPU, RAM, Disk Size, and allows the user to sele
 ## Prerequisites
 **VirtualBox**
 **PowerShell**
+**.ISO file**
